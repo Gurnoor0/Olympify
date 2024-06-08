@@ -1,23 +1,70 @@
-Olympify aims to create a comprehensive website dedicated to analysing and providing insights
-into the Olympic Games. This project is envisioned as a dynamic, data-driven platform that caters
-to a wide range of users, sports enthusiasts and researchers. The goal is to offer a one-stop
-destination for in-depth Olympic analysis, historical context and real-time updates.
+# Getting Started with Create React App
 
-It would gather, organize, and maintain a vast dataset encompassing the history of the Olympic
-Games, including information of athletes, events, medal standings, and historical records. It would
-create interactive and visually appealing charts or graphs to help users explore and understand
-complex data, such as medal distributions, performance trends, and geographical representations of
-Olympic achievements. Curate and present a collection of iconic Olympic moments, records, and
-memorable performances, fostering an appreciation for the history and legacy of the games. This
-website will be designed to be intuitive and user-friendly, making it easy for anyone to explore and
-enjoy the data. It shares your enthusiasm for sports and the Olympic spirit, and dedicated to
-provide users with a platform to nurture that passion.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Creating a dynamic and interactive website like the Olympify requires a robust technology stack.
-We've chosen a combination of React JS, Node JS, Jupyter and Python to power this platform,
-ensuring a seamless user experience and powerful data handling capabilities.
+## Available Scripts
 
-Olympify will have a significant impact on Olympic enthusiasts, researchers, athletes, and the
-wider public by providing a comprehensive and engaging resource for exploring the world of the
-Olympics. It will contribute to a deeper understanding and appreciation of the games, their history,
-and the incredible achievements of athletes from around the world.
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
